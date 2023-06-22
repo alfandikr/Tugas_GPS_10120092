@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">10120092 - GPS</string>
+    <string name="title_activity_multiple_marker">MultipleMarker</string>
+    <string name="title_activity_marker_maps">MarkerMaps</string>
+</resources>

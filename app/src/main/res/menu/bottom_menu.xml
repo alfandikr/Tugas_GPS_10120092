@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/ic_profile"
+        android:title=""/>
+
+    <item
+        android:id="@+id/tempat_favorit"
+        android:icon="@drawable/baseline_favorit"
+        android:title=""/>
+
+    <item
+        android:id="@+id/lokasi_pengguna"
+        android:icon="@drawable/ic_baseline_location_on_24"
+        android:title=""/>
+
+    <item
+        android:id="@+id/info"
+        android:icon="@drawable/ic_info"
+        android:title=""/>
+</menu>
